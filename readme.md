@@ -3,7 +3,7 @@
 
 ![image](https://github.com/DeGraciaMathieu/dummy-stub-spy-mock/assets/11473997/a22b8829-5dee-4b46-bd5e-8f6e2e46faf4)
 
-The "System under test" (SUT) refers to the class being tested.
+The "[System under test](https://en.wikipedia.org/wiki/System_under_test)" (SUT) refers to the class being tested.
 
 - Dummy: facilitates the instantiation of the SUT
 - Stub: manipulates the indirect inputs of the SUT
