@@ -13,4 +13,5 @@ Indirect inputs refer to the information that the SUT needs to function which ca
 
 Indirect outputs refer to the information that cannot be verified through the signature provided.
 
-![image](https://github.com/DeGraciaMathieu/dummy-stub-spy-mock/assets/11473997/27719da0-c04f-418c-89de-de6098294dae)
+![image](https://github.com/DeGraciaMathieu/dummy-stub-spy-mock/assets/11473997/aec1466f-94c2-45be-ad09-741f3aa8f218)
+
